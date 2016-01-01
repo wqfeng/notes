@@ -21,3 +21,5 @@
 
 1. [https://www.docker.com/](https://www.docker.com/)
 2. [http://docs.docker.com/mac/started/](http://docs.docker.com/mac/started/)
+3. [http://dockerpool.com/static/books/docker_practice/index.html](http://dockerpool.com/static/books/docker_practice/index.html)
+4. [http://odewahn.github.io/docker-jumpstart/](http://odewahn.github.io/docker-jumpstart/)
